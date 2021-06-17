@@ -1,0 +1,12 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# IPython Notebook
+.ipynb_checkpoints
+
+/.vscode
+/env
+
+/dataset/*
+!/dataset/whole dataset
